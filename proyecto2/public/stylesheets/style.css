@@ -18,7 +18,8 @@ h1{
     text-align: center;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 90px;
-    color: #582719;
+    color: #76232F;
+    margin-top: 50px;
 }
 
 .carousel-item{
@@ -37,4 +38,44 @@ h1{
 
 .alpaquita{
     height: 35px;
+}
+
+/* slogan */
+
+.slogan{
+    margin: 60px;
+    text-align: center;
+}
+
+/* Texto, imágenes y video acerca de nosotros */
+
+.textoCafe{
+    margin: 150px;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.conImgs{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.mundoCafe{
+    border-radius: 50%;
+    height: 350px;
+    margin: 40px;
+}
+
+.videoIndex{
+    display: flex;
+    justify-content: center;
+}
+
+/* Footer */
+
+.imgFooter{
+    width: 150px;
+    height: 120px;
 }
